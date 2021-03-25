@@ -9,9 +9,8 @@
   ![DjangoRestfulFramework](https://img.shields.io/badge/Django%20REST%20framework-latest-red)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![Mysql](https://img.shields.io/badge/mysql-8-yellowgreen)
-  ![Redis]
 - ⚙️ 业余时间我也搞点: 
-![Golang]
+![Golang](https://img.shields.io/badge/Go-v1.12-blue)
 ![Flask](https://img.shields.io/badge/flask-latest-brightgreen)
 ![Docker](https://img.shields.io/badge/docker-latest-yellow)
 ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-latest-green)
