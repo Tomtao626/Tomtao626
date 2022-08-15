@@ -14,3 +14,9 @@
 ## Content Me 📱
 
 - email: <a href="mailto:tp320670258@gmail.com">tp320670258@gmail.com</a>
+
+
+
+aHR0cHM6Ly91cGRhdGUuZ2xhZG9zLWNvbmZpZy5jb20vY2xhc2gvOTg2NzgvZDgzMDgxNi83MDU1OS9nbGFkb3MtYW5kcm9pZC55YW1s
+
+https://update.glados-config.com/clash/98678/d830816/70559/glados-android.yaml
